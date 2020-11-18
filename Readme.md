@@ -1,6 +1,6 @@
-# Fuchsia Source Code Reader
+# Linux Source Code Reader
 
-Little container that helps in reading/studying the fuchsia source code. Not designed for building right know.
+Little container that helps in reading/studying the linux kernel source code. Not designed for building right know.
 
 It has a docker container but the intent is for you to open in VSCode with the `ms-vscode-remote.remote-containers` plugin. 
 
